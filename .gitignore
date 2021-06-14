@@ -115,3 +115,4 @@ dmypy.json
 
 # Added manually
 data/full-dataset/
+.DS_Store
