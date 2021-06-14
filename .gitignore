@@ -116,3 +116,4 @@ dmypy.json
 # Added manually
 data/full-dataset/
 .DS_Store
+docs/excel/~$violation_types.xlsx
